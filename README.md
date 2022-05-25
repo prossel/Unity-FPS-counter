@@ -4,7 +4,7 @@ A simple FPS (Frames Per Second) counter for Unity. Compatible with VR. Using Te
 
 [https://github.com/prossel/Unity-FPS-counter](https://github.com/prossel/Unity-FPS-counter)
 
-![screenshot](screenshots/Screenshot_001.png)
+![screenshot](Screenshots/Screenshot_001.png)
 
 ## Installation
 
