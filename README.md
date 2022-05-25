@@ -8,14 +8,14 @@ A simple FPS (Frames Per Second) counter for Unity. Compatible with VR. Using Te
 
 ## Installation
 
-* Download .unitypackage file
+* Download latest .unitypackage file from [https://github.com/prossel/Unity-FPS-counter/releases](https://github.com/prossel/Unity-FPS-counter/releases)
 * Add to your unity project
-* Drag the `FPS Counter/FPS Counter` prefab file to your scene
+* Drag the `FPS Counter/Prefabs/FPS Counter` prefab file to your scene
 * Place it where you want in your scene
 
 or
 
-* Add the FPSCounter component to any TextMeshPro text
+* Add the `FPS Counter/Scripts/FPSCounter` component to any TextMeshPro text
 
 ## History
 
