@@ -1,0 +1,12 @@
+{
+  "name": "com.github.prossel.unity-fps-counter",
+  "displayName": "FPS counter",
+  "description": "Simple FPS counter",
+  "unity": "2020.1",
+  "unityRelease": "0f1",
+  "licenseSpdxId": "MIT",
+  "licenseName": "MIT License",
+  "repoUrl": "https://github.com/prossel/Unity-FPS-counter",
+  "version": "1.1.0",
+  "type": "library"
+}
